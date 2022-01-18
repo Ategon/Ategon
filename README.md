@@ -9,6 +9,8 @@
 [<img align="left" alt="youtube account" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />][youtube]
 [<img align="left" alt="linkedin account" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 
+<br>
+
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [RGB Highway Gameplay](https://www.youtube.com/watch?v=KJeUIPI1LCM)
@@ -17,6 +19,9 @@
 - [Chrono-Prison Gameplay](https://www.youtube.com/watch?v=4CMIu4x-1o4)
 <!-- YOUTUBE:END --> 
 ---
+[![Ategon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ategon&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ategon&theme=dark&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/Etegondev
 [youtube]: https://www.youtube.com/channel/UCuywPsJXFjz7xmqmk4km4kA
