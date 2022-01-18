@@ -19,23 +19,10 @@
 - [Chrono-Prison Gameplay](https://www.youtube.com/watch?v=4CMIu4x-1o4)
 <!-- YOUTUBE:END --> 
 ---
-[![Ategon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ategon&theme=dark&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ategon&theme=dark&hide=shaderlab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ategon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ategon&theme=dark&show_icons=true&line_height=20&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ategon&theme=dark&hide=shaderlab&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
 [GitHub]: https://github.com/Ategon
 [Twitter]: https://twitter.com/Etegondev
 [Youtube]: https://www.youtube.com/channel/UCKmv0hwQ5lVOboI1lgNMKdw
 [LinkedIn]: https://www.linkedin.com/in/ategon/
-
-<!--
-**Ategon/Ategon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on a roguelite platformer named Vuladune
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
