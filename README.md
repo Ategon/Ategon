@@ -10,7 +10,11 @@
 [<img align="left" alt="linkedin account" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 
 ### Latest YouTube Videos
-<!-- YOUTUBE:START --> 
+<!-- YOUTUBE:START -->
+- [RGB Highway Gameplay](https://www.youtube.com/watch?v=KJeUIPI1LCM)
+- [Chrono-Prison speedrun 1:39:00](https://www.youtube.com/watch?v=VtYoLl2csoo)
+- [Pachinko Bakery Gameplay](https://www.youtube.com/watch?v=K5f7CkAevOw)
+- [Chrono-Prison Gameplay](https://www.youtube.com/watch?v=4CMIu4x-1o4)
 <!-- YOUTUBE:END --> 
 ---
 
