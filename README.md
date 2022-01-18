@@ -20,8 +20,12 @@
 <!-- YOUTUBE:END --> 
 ---
 [![Ategon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ategon&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ategon&theme=dark&ring=green&fire=green&currStreakLabel=green)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ategon&theme=dark&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ategon&theme=dark&hide=shaderlab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ategon&repo=vuladune&theme=dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [GitHub]: https://github.com/Ategon
 [Twitter]: https://twitter.com/Etegondev
