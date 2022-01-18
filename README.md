@@ -7,7 +7,7 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)][GitHub]
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)][Twitter]
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)][Youtube]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)][Youtube]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)][LinkedIn]
 
 <br>
 
@@ -25,8 +25,8 @@
 
 [GitHub]: https://github.com/Ategon
 [Twitter]: https://twitter.com/Etegondev
-[Youtube]: https://www.youtube.com/channel/UCuywPsJXFjz7xmqmk4km4kA
-[Linkedin]: https://www.linkedin.com/in/ategon/
+[Youtube]: https://www.youtube.com/channel/UCKmv0hwQ5lVOboI1lgNMKdw
+[LinkedIn]: https://www.linkedin.com/in/ategon/
 
 <!--
 **Ategon/Ategon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
