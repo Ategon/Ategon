@@ -4,10 +4,10 @@
 - My current project is a roguelite platformer named Vuladune
 - Fun fact: I love making pixel art and composing music
 
-
-[<img align="left" alt="twitter account" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />][twitter]
-[<img align="left" alt="youtube account" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />][youtube]
-[<img align="left" alt="linkedin account" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)][GitHub]
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)][Twitter]
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)][Youtube]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white)][Youtube]
 
 <br>
 
@@ -23,9 +23,10 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ategon&theme=dark&hide=shaderlab)](https://github.com/anuraghazra/github-readme-stats)
 
-[twitter]: https://twitter.com/Etegondev
-[youtube]: https://www.youtube.com/channel/UCuywPsJXFjz7xmqmk4km4kA
-[linkedin]: https://www.linkedin.com/in/ategon/
+[GitHub]: https://github.com/Ategon
+[Twitter]: https://twitter.com/Etegondev
+[Youtube]: https://www.youtube.com/channel/UCuywPsJXFjz7xmqmk4km4kA
+[Linkedin]: https://www.linkedin.com/in/ategon/
 
 <!--
 **Ategon/Ategon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
