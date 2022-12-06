@@ -11,13 +11,7 @@
 
 <br>
 
-### Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [RGB Highway Gameplay](https://www.youtube.com/watch?v=KJeUIPI1LCM)
-- [Chrono-Prison speedrun 1:39:00](https://www.youtube.com/watch?v=VtYoLl2csoo)
-- [Pachinko Bakery Gameplay](https://www.youtube.com/watch?v=K5f7CkAevOw)
-- [Chrono-Prison Gameplay](https://www.youtube.com/watch?v=4CMIu4x-1o4)
-<!-- YOUTUBE:END --> 
+
 ---
 [![Ategon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ategon&theme=dark&show_icons=true&line_height=20&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ategon&theme=dark&hide=shaderlab&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
